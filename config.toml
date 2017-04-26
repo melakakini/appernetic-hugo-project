@@ -36,8 +36,8 @@ paginatePath = "page"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Melaka Kini"
+    email = "melakakini@hotmail.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
