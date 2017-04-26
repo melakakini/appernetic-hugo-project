@@ -8,6 +8,7 @@ title = "home"
 So if I used **bold** Oh that's cool. Appernetic allows me to edit with their editor menu *without memorising* the codes and i can even [hearing aid links][1] and now am impressed, How about 
 
 > Blockquotes and how this would affect the formattting?
+This is sad. Have still nothing to show for all the time on the internet. SO how?
 
     enter the codes here. So what's the markdown?
     this is for coding when i put in 4 spaces
