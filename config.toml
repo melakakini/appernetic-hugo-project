@@ -5,7 +5,7 @@ baseurl = "http://melakakini.github.io"
 title = "Melaka Kini"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 Melaka Kini."
 
 # Language
 languageCode = "en-EN"
@@ -25,7 +25,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "your_disqus_shortname"
+# disqusShortname = "your_disqus_shortname"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -42,11 +42,11 @@ disqusShortname = "your_disqus_shortname"
 #
 # All parameters below here are optional and can be mixed and matched.
 #
-[params]
+#[params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
-    footline = "code with <i class='fa fa-heart'></i>"
+#    brand = "foobar"
+#    topline = "few words about your site"
+#    footline = "code with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
@@ -54,10 +54,10 @@ disqusShortname = "your_disqus_shortname"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "default"
+#    highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+ #   googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
     github = "enten/hugo-boilerplate" # Your Github profile ID
@@ -69,11 +69,11 @@ disqusShortname = "your_disqus_shortname"
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
-[blackfriday]
-    angledQuotes = true
-    fractions = false
-    hrefTargetBlank = false
-    latexDashes = true
-    plainIdAnchors = true
-    extensions = []
-    extensionmask = []
+#[blackfriday]
+#    angledQuotes = true
+#    fractions = false
+#    hrefTargetBlank = false
+#    latexDashes = true
+#    plainIdAnchors = true
+#    extensions = []
+#    extensionmask = []
