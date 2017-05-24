@@ -20,3 +20,5 @@ so how do I end a blockquote?
   [1]: http://www.jensenhearing.com
 
 So who will be reading this?
+
+    Am trying to write and test out appernetic before I pay for it. Let's see if I can figure it out.
