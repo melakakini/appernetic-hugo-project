@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
+    <title>Posts on Melaka Kini</title>
     <link>/%22/%22/post/index.xml</link>
-    <description>Recent content in Posts on Academic</description>
+    <description>Recent content in Posts on Melaka Kini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Melaka Kini</copyright>
     <lastBuildDate>Mon, 24 Apr 2017 09:46:12 +0000</lastBuildDate>
     <atom:link href="/%22/%22/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,8 @@ Been typing the about section and now the first post section and am still wonder
 #update
 Have just seen the youtube &amp;ldquo;silent movie&amp;rdquo; style tutorial and published it
 but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
+
+&lt;p&gt;Am back and today it&amp;rsquo;s the 28th of April and am not making much progress. The settings file keeps getting deleted and the GitHub does not show the files like a Hugo site should. So it&amp;rsquo;s not hugo I remind myself. It&amp;rsquo;s appernetic :)&lt;/p&gt;
 </description>
     </item>
     

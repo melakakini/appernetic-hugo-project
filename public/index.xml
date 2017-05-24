@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Melaka Kini</title>
     <link>/%22/%22/index.xml</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content on Melaka Kini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Mon, 24 Apr 2017 09:46:12 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 Melaka Kini</copyright>
+    <lastBuildDate>Wed, 24 May 2017 21:23:27 +0000</lastBuildDate>
     <atom:link href="/%22/%22/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second post</title>
+      <link>/%22/%22/second-post/</link>
+      <pubDate>Wed, 24 May 2017 21:23:27 +0000</pubDate>
+      
+      <guid>/%22/%22/second-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>firstpost</title>
@@ -21,6 +30,8 @@ Been typing the about section and now the first post section and am still wonder
 #update
 Have just seen the youtube &amp;ldquo;silent movie&amp;rdquo; style tutorial and published it
 but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
+
+&lt;p&gt;Am back and today it&amp;rsquo;s the 28th of April and am not making much progress. The settings file keeps getting deleted and the GitHub does not show the files like a Hugo site should. So it&amp;rsquo;s not hugo I remind myself. It&amp;rsquo;s appernetic :)&lt;/p&gt;
 </description>
     </item>
     
@@ -31,10 +42,11 @@ but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
       
       <guid>/%22/%22/home/</guid>
       <description>&lt;p&gt;This is the home file and how about some &lt;em&gt;markdown&lt;/em&gt; Not even clear how -this- works
-So if I used &lt;strong&gt;bold&lt;/strong&gt; Oh that&amp;rsquo;s cool. Appernetic allows me to edit with their editor menu &lt;em&gt;without memorising&lt;/em&gt; the codes and i can even &lt;a href=&#34;http://www.jensenhearing.com&#34; target=&#34;_blank&#34;&gt;hearing aid links&lt;/a&gt; and now am impressed, How about&lt;/p&gt;
+So if I used &lt;strong&gt;bold&lt;/strong&gt; Oh that&amp;rsquo;s cool. Appernetic allows me to edit with their editor menu &lt;em&gt;without memorising&lt;/em&gt; the codes and i can even &lt;a href=&#34;http://www.jensenhearing.com&#34;&gt;hearing aid links&lt;/a&gt; and now am impressed, How about&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Blockquotes and how this would affect the formattting?&lt;/p&gt;
+&lt;p&gt;Blockquotes and how this would affect the formattting?
+This is sad. Have still nothing to show for all the time on the internet. SO how?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;pre&gt;&lt;code&gt;enter the codes here. So what&#39;s the markdown?
@@ -47,6 +59,9 @@ when i use the &amp;gt; sign then the format changes
 so how do I end a blockquote?&lt;/p&gt;
 
 &lt;p&gt;So who will be reading this?&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Am trying to write and test out appernetic before I pay for it. Let&#39;s see if I can figure it out.
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -58,6 +73,18 @@ so how do I end a blockquote?&lt;/p&gt;
       <guid>/%22/%22/about/</guid>
       <description>&lt;p&gt;Am writing on appernetic to try out their features as I&amp;rsquo;ve been struggling to get a site up with console/.terminal but without much success
 So this about section is about how I&amp;rsquo;m testing out appernetic for Melaka Kini News&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This is me again writing in MD.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is so cool. Appernetic replied to my messages on gitter. Shout out to Appernetic.
+    It&amp;rsquo;s tough enough having to learn git and then hugo and then firebase and then appernetic comes along.
+What a relief.
+&lt;strong&gt;&lt;em&gt;Shout out to appernetic&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Today is the 25 th of May 2017 and I&amp;rsquo;m making another attempt to make this work. Or at least try to understand what appernetic is doing to help people get their static websites online.&lt;/p&gt;
+
+&lt;p&gt;Am wondering if it&amp;rsquo;s the theme I&amp;rsquo;ve chosen.&lt;/p&gt;
 </description>
     </item>
     
