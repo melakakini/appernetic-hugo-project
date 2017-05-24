@@ -13,4 +13,6 @@ draft = true
 
 ***But why?***
 
-    Why should anyone crack their heads to provide FREE themes to others?
+    Why should anyone crack their heads to provide FREE themes to others? Why spend nights perfecting their themes so that others can have beautiful websites? 
+
+It's amazing you guys rock.
