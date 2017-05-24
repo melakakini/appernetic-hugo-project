@@ -1,6 +1,15 @@
 +++
-date: 9.9.99
+
+date = "2017-05-24T21:37:08Z"
+
+title = "third post but not"
+
+categories = [melaka]
+
+tags = [tag tag]
+
 +++
+
 ***how Un creative***
 
 After the first comes the second and then the third. But this is not good for I have got 1 and 3 but not 2 because I forgot to put it in post directory. So how do I move it?
