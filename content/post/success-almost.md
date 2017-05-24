@@ -14,6 +14,6 @@ Let's try changing theme. If you can read this then the theme change was success
 
 Also trying to move a post from default to go under "post" directory so that it shows up on front page. 
 
-Take note that this post's header is in yaml
+Take note that this post's header is in yaml while all the earlier ones were in toml
 
 Why should one go for such hard was to publish when there's free wix website builders with tons of free pictures? Why do I struggle to put up plain pages? Is it worth it?
