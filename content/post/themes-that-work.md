@@ -7,4 +7,6 @@ tags = []
 draft = true
 
 +++
+Thanks to all the hardworking and creative theme makers that post to Hugo. 
 
+*shoutout* thanks to you guys I get to have nice looking site. Thank you for your effo
