@@ -12,3 +12,7 @@ This is so cool. Appernetic replied to my messages on gitter. Shout out to Apper
     It's tough enough having to learn git and then hugo and then firebase and then appernetic comes along.
 What a relief.
 ***Shout out to appernetic***
+
+Today is the 25 th of May 2017 and I'm making another attempt to make this work. Or at least try to understand what appernetic is doing to help people get their static websites online. 
+
+Am wondering if it's the theme I've chosen.
