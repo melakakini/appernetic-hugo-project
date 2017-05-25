@@ -1,30 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MELAKA KINI</title>
+    <title>Blackburn Theme Demo or real MELAKA KINI</title>
     <link>/%22/%22/index.xml</link>
-    <description>Recent content on MELAKA KINI</description>
+    <description>Recent content on Blackburn Theme Demo or real MELAKA KINI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2017 MELAKA KINK is yourname.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 21:56:07 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>&amp;copy; melaka kini 2017. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 24 May 2017 22:12:24 +0000</lastBuildDate>
     <atom:link href="/%22/%22/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>themes that work</title>
+      <link>/%22/%22/post/themes-that-work/</link>
+      <pubDate>Wed, 24 May 2017 22:12:24 +0000</pubDate>
+      
+      <guid>/%22/%22/post/themes-that-work/</guid>
+      <description>&lt;p&gt;Thanks to all the hardworking and creative theme makers that post to Hugo.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;shoutout&lt;/em&gt; thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;But why?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Why should anyone crack their heads to provide FREE themes to others? Why spend nights perfecting their themes so that others can have beautiful websites? 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It&amp;rsquo;s amazing you guys rock.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>success almost</title>
-      <link>/%22/%22/2017/05/24/success-almost/</link>
+      <link>/%22/%22/post/success-almost/</link>
       <pubDate>Wed, 24 May 2017 21:56:07 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/%22/%22/2017/05/24/success-almost/</guid>
+      
+      <guid>/%22/%22/post/success-almost/</guid>
       <description>&lt;p&gt;Can I shout for joy?&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;laquo;about&amp;raquo; sections to show up.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;ldquo;about&amp;rdquo; sections to show up.&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s try changing theme. If you can read this then the theme change was successful.&lt;/p&gt;
 
-&lt;p&gt;Also trying to move a post from default to go under &amp;laquo;post&amp;raquo; directory so that it shows up on front page.&lt;/p&gt;
+&lt;p&gt;Also trying to move a post from default to go under &amp;ldquo;post&amp;rdquo; directory so that it shows up on front page.&lt;/p&gt;
 
 &lt;p&gt;Take note that this post&amp;rsquo;s header is in yaml while all the earlier ones were in toml&lt;/p&gt;
 
@@ -34,10 +51,10 @@
     
     <item>
       <title>third post</title>
-      <link>/%22/%22/2017/05/24/third-post/</link>
+      <link>/%22/%22/post/third-post/</link>
       <pubDate>Wed, 24 May 2017 21:37:08 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/%22/%22/2017/05/24/third-post/</guid>
+      
+      <guid>/%22/%22/post/third-post/</guid>
       <description>&lt;p&gt;No wonder.&lt;/p&gt;
 
 &lt;p&gt;Without toml the site won&amp;rsquo;t publish&lt;/p&gt;
@@ -48,7 +65,7 @@
       <title>second post</title>
       <link>/%22/%22/second-post/</link>
       <pubDate>Wed, 24 May 2017 21:23:27 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>/%22/%22/second-post/</guid>
       <description>&lt;p&gt;Sorry i forgot about writing something here&lt;/p&gt;
 
@@ -60,10 +77,10 @@
     
     <item>
       <title>third post but not</title>
-      <link>/%22/%22/2017/05/14/third-post-but-not/</link>
+      <link>/%22/%22/post/thirdpost/</link>
       <pubDate>Sun, 14 May 2017 21:37:08 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/%22/%22/2017/05/14/third-post-but-not/</guid>
+      
+      <guid>/%22/%22/post/thirdpost/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;how Un creative&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After the first comes the second and then the third. But this is not good for I have got 1 and 3 but not 2 because I forgot to put it in post directory. So how do I move it?&lt;/p&gt;
@@ -75,14 +92,14 @@
     
     <item>
       <title>firstpost</title>
-      <link>/%22/%22/2017/04/24/firstpost/</link>
+      <link>/%22/%22/post/firstpost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/%22/%22/2017/04/24/firstpost/</guid>
+      
+      <guid>/%22/%22/post/firstpost/</guid>
       <description>&lt;p&gt;This is the first post and i have no clue what so ever what&amp;rsquo;s happening.
 Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen.
 #update
-Have just seen the youtube &amp;laquo;silent movie&amp;raquo; style tutorial and published it
+Have just seen the youtube &amp;ldquo;silent movie&amp;rdquo; style tutorial and published it
 but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
 
 &lt;p&gt;Am back and today it&amp;rsquo;s the 28th of April and am not making much progress. The settings file keeps getting deleted and the GitHub does not show the files like a Hugo site should. So it&amp;rsquo;s not hugo I remind myself. It&amp;rsquo;s appernetic :)&lt;/p&gt;
@@ -93,7 +110,7 @@ but nothing is seen yet. WIll come back and test in 15 mins&lt;/p&gt;
       <title>home</title>
       <link>/%22/%22/home/</link>
       <pubDate>Wed, 29 Mar 2017 13:10:05 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>/%22/%22/home/</guid>
       <description>&lt;p&gt;This is the home file and how about some &lt;em&gt;markdown&lt;/em&gt; Not even clear how -this- works
 So if I used &lt;strong&gt;bold&lt;/strong&gt; Oh that&amp;rsquo;s cool. Appernetic allows me to edit with their editor menu &lt;em&gt;without memorising&lt;/em&gt; the codes and i can even &lt;a href=&#34;http://www.jensenhearing.com&#34;&gt;hearing aid links&lt;/a&gt; and now am impressed, How about&lt;/p&gt;
@@ -123,7 +140,7 @@ so how do I end a blockquote?&lt;/p&gt;
       <title>about</title>
       <link>/%22/%22/about/</link>
       <pubDate>Wed, 29 Mar 2017 13:06:45 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>/%22/%22/about/</guid>
       <description>&lt;p&gt;Am writing on appernetic to try out their features as I&amp;rsquo;ve been struggling to get a site up with console/.terminal but without much success
 So this about section is about how I&amp;rsquo;m testing out appernetic for Melaka Kini News&lt;/p&gt;
