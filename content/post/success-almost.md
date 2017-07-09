@@ -17,3 +17,6 @@ Also trying to move a post from default to go under "post" directory so that it 
 Take note that this post's header is in yaml while all the earlier ones were in toml
 
 Why should one go for such hard was to publish when there's free wix website builders with tons of free pictures? Why do I struggle to put up plain pages? Is it worth it?
+
+
+How did I change the front matter from TOML to yaml??
