@@ -6,17 +6,17 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+# disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+# googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [blackfriday]
-  hrefTargetBlank = true
+#  hrefTargetBlank = true
 
 [params]
   name = "Lena Smith"
@@ -75,8 +75,8 @@ defaultContentLanguageInSubdir = false
   #
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
-  highlight = true
-  highlight_languages = []
+ # highlight = true
+#  highlight_languages = []
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
