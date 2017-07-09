@@ -18,7 +18,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-agency-theme"
+theme = "hugo-academic"
 
 # Pagination
 paginate = 10
