@@ -16,3 +16,9 @@ What a relief.
 Today is the 25 th of May 2017 and I'm making another attempt to make this work. Or at least try to understand what appernetic is doing to help people get their static websites online. 
 
 Am wondering if it's the theme I've chosen.
+
+---
+
+Today is the 8 th of July 2017
+It's been a while since I stepped in here at appernetic.io  
+Their service is good. My content is only building up slowly
