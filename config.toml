@@ -1,7 +1,7 @@
 baseurl = "https://melakakini.github.io"
 title = "Academic melaka kini"
-copyright = "&copy; 2016 melaka kini
-theme = "academic"
+copyright = "&copy; 2016 melaka kini"
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
