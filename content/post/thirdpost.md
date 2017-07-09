@@ -12,4 +12,4 @@ After the first comes the second and then the third. But this is not good for I 
 
     Hope this is good investment and apprentice thrives.
 
-> appernetic has a great concept. It's just that I'm still in the process of working out what that
+> appernetic has a great concept. It's just that I'm still in the process of working out what that is and how to gel with it so that I can get to change theme while learning the ropes.
