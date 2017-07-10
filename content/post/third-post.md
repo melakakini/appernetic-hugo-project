@@ -8,3 +8,7 @@ tags = []
 No wonder. 
 
 Without toml the site won't publish
+
+---
+
+This is getting chaotic and I'm getting no where. These posts were typed on the iPad from the 2nd generation and wo
