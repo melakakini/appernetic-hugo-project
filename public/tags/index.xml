@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Academic Melaka Kini</title>
+    <link>%22/%22/tags/</link>
+    <description>Recent content in Tags on Academic Melaka Kini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Mon, 24 Apr 2017 09:46:12 +0000</lastBuildDate>
+    
+	<atom:link href="%22/%22/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post</title>
+      <link>%22/%22/tags/post/</link>
+      <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
+      
+      <guid>%22/%22/tags/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
