@@ -9,7 +9,8 @@ draft = false
 +++
 Thanks to all the hardworking and *creative theme makers* that post to Hugo. 
 
-###shoutout### thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out. 
+###shoutout
+thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out. 
 
 ***But why?***
 
