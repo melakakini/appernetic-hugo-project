@@ -2,6 +2,7 @@
 date = "2017-04-24T09:46:12Z"
 title = "firstpost"
 draft = false
+tags = "post"
 
 +++
 This is the first post and i have no clue what so ever what's happening.
