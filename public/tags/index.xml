@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blackburn Theme Demo</title>
+    <title>Tags on sitename</title>
     <link>%22/%22/tags/</link>
-    <description>Recent content in Tags on Blackburn Theme Demo</description>
+    <description>Recent content in Tags on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Mon, 24 Apr 2017 09:46:12 +0000</lastBuildDate>
     
 	<atom:link href="%22/%22/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +18,7 @@
       <title>Post</title>
       <link>%22/%22/tags/post/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      
+      <author>yourname@example.com (yourname)</author>
       <guid>%22/%22/tags/post/</guid>
       <description></description>
     </item>
