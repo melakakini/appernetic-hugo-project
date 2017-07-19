@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://melakakini.github.io"
 
 # Site title
-title = "sitename"
+title = "MELAKA NOW"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 melaka kini."
 
 # Language
 languageCode = "en-EN"
@@ -18,7 +18,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-# theme = "hugo-bootstrap"
+ theme = "amp"
 
 # Pagination
 paginate = 10
