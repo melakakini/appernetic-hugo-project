@@ -1,11 +1,10 @@
----
-categories: []
-date: 2017-05-24T21:56:07Z
-tags: []
-title: success almost
----
++++
+date = "2017-04-24T09:46:12Z"
+title = "success almost"
+draft = false
+tags = "post"
 
-
++++
 Can I shout for joy?
 
 It's almost a success. I've finally got the website running on appernetic.io and on the most basic amp theme. I've got the posts appearing on the front page and attempting to make the "about" sections to show up. 
