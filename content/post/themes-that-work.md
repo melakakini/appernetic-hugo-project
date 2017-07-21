@@ -1,7 +1,6 @@
 +++
 date = "2017-05-24T22:12:24Z"
 title = "themes that work"
-topics = []
 draft = false
 
 +++
