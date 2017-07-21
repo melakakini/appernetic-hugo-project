@@ -2,7 +2,7 @@
 
 date = "2017-05-14T21:37:08Z"
 title = "third post but not"
-tags = "POST"
+tags = "post"
 
 +++
 ***how Un creative***
