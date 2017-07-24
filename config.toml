@@ -18,4 +18,4 @@ headerCover = "images/headerCover.png" # optional
 footerCover = "images/footerCover.png" # optional
 googleAnalyticsUserID = "Your Analytics User Id" # optional
 [permalinks]
-post = "/:year/:month/:day/:title/" # optional
+# post = "/:year/:month/:day/:title/" # optional
