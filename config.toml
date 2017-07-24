@@ -1,37 +1,79 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
-metadataformat = "yaml"
-title = "Alabaster"
-theme = "hugo-alabaster-theme"
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "http://www.example.com"
 
-disqusShortname = ""
-googleAnalytics = ""
+# Site title
+title = "sitename"
 
+# Copyright
+copyright = "(c) 2015 yourname."
+
+# Language
+languageCode = "en-EN"
+
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+# theme = "hugo-bootstrap"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "your_disqus_shortname"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "yourname"
+    email = "yourname@example.com"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
 [params]
-	name = "Alabaster"
-	description = "A documentation theme for Hugo."
+    # You can use markdown here.
+    brand = "foobar"
+    topline = "few words about your site"
+    footline = "code with <i class='fa fa-heart'></i>"
 
-	github_user   = "digitalcraftsman"
-	github_repo   = "hugo-alabaster-theme"
-	github_banner = true
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
 
-	custom_css = []
-	custom_js  = []
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
 
-	highlightjs = "css/highlight.css"
-	favicon = "favicon.ico"
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
 
-[params.sidebar]
-	logo = "favicon.ico"
+    # Sidebar social links.
+    github = "enten/hugo-boilerplate" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
 
-
-	github_button  = true
-	travis_button  = false
-	codecov_button = false
-	gratipay = ""
-
-	show_relations = true
-
-[params.footer]
-	copyright = "[Digitalcraftsman](https://github.com/digitalcraftsman)"
-	show_powered_by = true
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
