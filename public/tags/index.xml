@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on my new web site</title>
+    <title>Tags on sitename</title>
     <link>%22/%22/tags/</link>
-    <description>Recent content in Tags on my new web site</description>
+    <description>Recent content in Tags on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 24 May 2017 21:37:08 +0000</lastBuildDate>
     
 	<atom:link href="%22/%22/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +18,7 @@
       <title>Post</title>
       <link>%22/%22/tags/post/</link>
       <pubDate>Wed, 24 May 2017 21:37:08 +0000</pubDate>
-      
+      <author>yourname@example.com (yourname)</author>
       <guid>%22/%22/tags/post/</guid>
       <description></description>
     </item>

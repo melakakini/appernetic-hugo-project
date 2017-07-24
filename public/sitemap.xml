@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>%22/%22/post/third-post/</loc>
+    <loc>%22/%22/2017/05/24/third-post/</loc>
     <lastmod>2017-05-24T21:37:08+00:00</lastmod>
   </url>
   
@@ -12,22 +12,22 @@
   </url>
   
   <url>
-    <loc>%22/%22/post/themes-that-work/</loc>
+    <loc>%22/%22/2017/05/23/themes-that-work/</loc>
     <lastmod>2017-05-23T22:12:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>%22/%22/post/thirdpost/</loc>
+    <loc>%22/%22/2017/05/14/third-post-but-not/</loc>
     <lastmod>2017-05-14T21:37:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>%22/%22/post/firstpost/</loc>
+    <loc>%22/%22/2017/04/24/firstpost/</loc>
     <lastmod>2017-04-24T09:46:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>%22/%22/post/success-almost/</loc>
+    <loc>%22/%22/2017/04/24/success-almost/</loc>
     <lastmod>2017-04-24T09:46:12+00:00</lastmod>
   </url>
   
@@ -39,11 +39,6 @@
   <url>
     <loc>%22/%22/about/</loc>
     <lastmod>2017-03-29T13:06:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>%22/%22/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,6 +56,11 @@
   <url>
     <loc>%22/%22/tags/</loc>
     <lastmod>2017-05-24T21:37:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>%22/%22/topics/</loc>
     <priority>0</priority>
   </url>
   
