@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Your Site Title</title>
+    <title>Post on my new web site</title>
     <link>%22/%22/tags/post/</link>
-    <description>Recent content in Post on Your Site Title</description>
+    <description>Recent content in Post on my new web site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2016 Copyright Text</copyright>
+    <language>fr-fr</language>
     <lastBuildDate>Wed, 24 May 2017 21:37:08 +0000</lastBuildDate>
     
 	<atom:link href="%22/%22/tags/post/index.xml" rel="self" type="application/rss+xml" />
