@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on sitename</title>
+    <title>Post on </title>
     <link>%22/%22/tags/post/</link>
-    <description>Recent content in Post on sitename</description>
+    <description>Recent content in Post on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 24 May 2017 21:37:08 +0000</lastBuildDate>
     
 	<atom:link href="%22/%22/tags/post/index.xml" rel="self" type="application/rss+xml" />
@@ -16,10 +12,10 @@
     
     <item>
       <title>third post</title>
-      <link>%22/%22/2017/05/24/third-post/</link>
+      <link>%22/%22/post/third-post/</link>
       <pubDate>Wed, 24 May 2017 21:37:08 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>%22/%22/2017/05/24/third-post/</guid>
+      
+      <guid>%22/%22/post/third-post/</guid>
       <description>No wonder.
 Without toml the site won&amp;rsquo;t publish
 This is getting chaotic and I&amp;rsquo;m getting no where. These posts were typed on the iPad from the 2nd generation and works fine. No need to install anything it runs off the internet
@@ -28,14 +24,14 @@ It&amp;rsquo;s about figuring out how to get the themes going.</description>
     
     <item>
       <title>success almost</title>
-      <link>%22/%22/2017/04/24/success-almost/</link>
+      <link>%22/%22/post/success-almost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>%22/%22/2017/04/24/success-almost/</guid>
+      
+      <guid>%22/%22/post/success-almost/</guid>
       <description>Can I shout for joy?
-It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;laquo;about&amp;raquo; sections to show up.
+It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;ldquo;about&amp;rdquo; sections to show up.
 Let&amp;rsquo;s try changing theme. If you can read this then the theme change was successful.
-Also trying to move a post from default to go under &amp;laquo;post&amp;raquo; directory so that it shows up on front page.</description>
+Also trying to move a post from default to go under &amp;ldquo;post&amp;rdquo; directory so that it shows up on front page.</description>
     </item>
     
   </channel>
