@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on sitename</title>
     <link>%22/%22/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 24 May 2017 21:37:08 +0000</lastBuildDate>
     
 	<atom:link href="%22/%22/post/index.xml" rel="self" type="application/rss+xml" />
@@ -12,10 +16,10 @@
     
     <item>
       <title>third post</title>
-      <link>%22/%22/post/third-post/</link>
+      <link>%22/%22/2017/05/24/third-post/</link>
       <pubDate>Wed, 24 May 2017 21:37:08 +0000</pubDate>
-      
-      <guid>%22/%22/post/third-post/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2017/05/24/third-post/</guid>
       <description>No wonder.
 Without toml the site won&amp;rsquo;t publish
 This is getting chaotic and I&amp;rsquo;m getting no where. These posts were typed on the iPad from the 2nd generation and works fine. No need to install anything it runs off the internet
@@ -24,10 +28,10 @@ It&amp;rsquo;s about figuring out how to get the themes going.</description>
     
     <item>
       <title>themes that work</title>
-      <link>%22/%22/post/themes-that-work/</link>
+      <link>%22/%22/2017/05/23/themes-that-work/</link>
       <pubDate>Tue, 23 May 2017 22:12:24 +0000</pubDate>
-      
-      <guid>%22/%22/post/themes-that-work/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2017/05/23/themes-that-work/</guid>
       <description>Thanks to all the hardworking and creative theme makers that post to Hugo.
 ##shoutout thanks to you guys I get to have nice looking site. Thank you for your efforts I get my thoughts out.
 But why?
@@ -36,10 +40,10 @@ Why should anyone crack their heads to provide FREE themes to others? Why spend 
     
     <item>
       <title>third post but not</title>
-      <link>%22/%22/post/thirdpost/</link>
+      <link>%22/%22/2017/05/14/third-post-but-not/</link>
       <pubDate>Sun, 14 May 2017 21:37:08 +0000</pubDate>
-      
-      <guid>%22/%22/post/thirdpost/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2017/05/14/third-post-but-not/</guid>
       <description>how Un creative
 After the first comes the second and then the third. But this is not good for I have got 1 and 3 but not 2 because I forgot to put it in post directory. So how do I move it?
 Hope this is good investment and apprentice thrives.   appernetic has a great concept. It&amp;rsquo;s just that I&amp;rsquo;m still in the process of working out what that is and how to gel with it so that I can get to change theme while learning the ropes.</description>
@@ -47,24 +51,24 @@ Hope this is good investment and apprentice thrives.   appernetic has a great co
     
     <item>
       <title>firstpost</title>
-      <link>%22/%22/post/firstpost/</link>
+      <link>%22/%22/2017/04/24/firstpost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      
-      <guid>%22/%22/post/firstpost/</guid>
-      <description>This is the first post and i have no clue what so ever what&amp;rsquo;s happening. Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen. #update Have just seen the youtube &amp;ldquo;silent movie&amp;rdquo; style tutorial and published it but nothing is seen yet. WIll come back and test in 15 mins
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2017/04/24/firstpost/</guid>
+      <description>This is the first post and i have no clue what so ever what&amp;rsquo;s happening. Been typing the about section and now the first post section and am still wondering what&amp;rsquo;s going to happen to get it to happen. #update Have just seen the youtube &amp;laquo;silent movie&amp;raquo; style tutorial and published it but nothing is seen yet. WIll come back and test in 15 mins
 Am back and today it&amp;rsquo;s the 28th of April and am not making much progress.</description>
     </item>
     
     <item>
       <title>success almost</title>
-      <link>%22/%22/post/success-almost/</link>
+      <link>%22/%22/2017/04/24/success-almost/</link>
       <pubDate>Mon, 24 Apr 2017 09:46:12 +0000</pubDate>
-      
-      <guid>%22/%22/post/success-almost/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2017/04/24/success-almost/</guid>
       <description>Can I shout for joy?
-It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;ldquo;about&amp;rdquo; sections to show up.
+It&amp;rsquo;s almost a success. I&amp;rsquo;ve finally got the website running on appernetic.io and on the most basic amp theme. I&amp;rsquo;ve got the posts appearing on the front page and attempting to make the &amp;laquo;about&amp;raquo; sections to show up.
 Let&amp;rsquo;s try changing theme. If you can read this then the theme change was successful.
-Also trying to move a post from default to go under &amp;ldquo;post&amp;rdquo; directory so that it shows up on front page.</description>
+Also trying to move a post from default to go under &amp;laquo;post&amp;raquo; directory so that it shows up on front page.</description>
     </item>
     
   </channel>
